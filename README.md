@@ -2,7 +2,7 @@
 
 # Hi, I'm Akshara Sarode 👋
 
-### Data Analyst · Business & Operations Analyst · Data Engineer · Applied AI
+### Data Analyst · Business & Operations Analyst · Data Engineer · AI Engineer
 
 **Turning complex data into clear decisions, useful products, and measurable business impact.**
 
