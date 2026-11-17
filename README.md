@@ -83,7 +83,7 @@ I enjoy partnering with business and technical teams to define the right questio
 ![Customer Segmentation](https://img.shields.io/badge/Customer%20Segmentation-BC5090?style=for-the-badge)
 ![Stakeholder Collaboration](https://img.shields.io/badge/Stakeholder%20Collaboration-7A5195?style=for-the-badge)
 
-## Selected Projects
+## Projects
 
 | Project | What it explores |
 | --- | --- |
